@@ -7,5 +7,5 @@
 #### Task is making a Python application for a company who want to manipulate data in their database.
 #### The company work is registering people and I want to help them with this app.
 #### I made an app by which user can enter (Create), Read, Update and Delete (CRUD) data in app and app will update the database by these entries.
-#### Files for Python and SQL queries are available above.
+#### Files for Python and SQL queries are available above and you can find more details in Report.
 
