@@ -1,5 +1,5 @@
-# SQL
-#### Travel agancy Data base
+
+# Travel agancy Data base
 Many industries use a lot of data to enhance their operation efficiency and improve service quality and customer experience. The tourism industry needs the same as all these industries. 
 It is important to understand some characteristics of customers and their interests. For example,” How old are they ", " Which destinations are interesting for them” and” How much may they pay for a specific trip plan?" etc.
 By answering these questions and analyzing data, the tourism sector will be able to provide better products and services for tourists and define efficient marketing strategies.
